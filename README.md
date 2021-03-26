@@ -1,1 +1,1 @@
-# sweet.github.io
+# https://devmint-bot.github.io/sweet
